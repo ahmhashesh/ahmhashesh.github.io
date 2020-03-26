@@ -10,11 +10,11 @@ Education
 Experience
 ----------
 **2019-01 -- present  ::  Senior Embedded SW R&D Engineer**  
-:   Avelabs LLC. - Contractor to Aptiv USA  
+   Avelabs LLC. - Contractor to Aptiv USA  
 **2017-05 -- 2019-01  ::  Embedded SW R&D Engineer**  
-:   Avelabs LLC. - Contractor to Aptiv USA   
+   Avelabs LLC. - Contractor to Aptiv USA   
 **2016-06 -- 2017-04  ::  Embedded DSP SW Engineer**   
-:   Axxcelera Egypt LLC. subsidiary of Axxcelera Broadband Wireless   
+   Axxcelera Egypt LLC. subsidiary of Axxcelera Broadband Wireless   
 
 Technical Experience
 --------------------
