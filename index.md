@@ -15,7 +15,10 @@ Experience
    Avelabs LLC. - Contractor to Aptiv USA   
 **2016-06 -- 2017-04  ::  Embedded DSP SW Engineer**   
    Axxcelera Egypt LLC. subsidiary of Axxcelera Broadband Wireless   
-
+  
+for more details check my CV <a href="ahmed-hashesh.pdf">Download File</a>  
+  
+  
 Technical Experience
 --------------------
 
