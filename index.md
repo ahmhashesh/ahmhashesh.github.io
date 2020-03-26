@@ -42,5 +42,6 @@ Programming Languages
 * **Python.**  
 * **C++.**   
 
-> <ahmhashesh@gmail.com> • +02 (0)10 606 25100 • 29 years old\
-> Alexandria, Egypt
+> <ahmhashesh@gmail.com> • +2 (0)10 606 25100 •
+> Alexandria, Egypt  
+for more details check my <a href="ahmed-hashesh.pdf">CV</a>  or contact me on [linkedIn](https://www.linkedin.com/in/ahmed-hashesh-01583784/)
