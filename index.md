@@ -1,5 +1,5 @@
 # Ahmed Hashesh
-## Senior Embedded SW Engineer
+## Senior Embedded SW Engineer and Machine learning Enthusiastic
 Embedded Software Engineer with 4 years of experience in Embedded and Automotive industry with a focus on ADAS products. Compiled solid experience in Software-Hardware Interfacing including SIP and MCAL configuration and integration activities specially over Infineon Tricore Architecture. Designed and implemented different AUTOSAR software components with in-depth exposure to functional safety critical requirements based on ISO26262.
 
 Education
@@ -9,21 +9,12 @@ Education
 
 Experience
 ----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
+**2019-01 -- present  ::  Senior Embedded SW R&D Engineer**  
+:   Avelabs LLC. - Contractor to Aptiv USA  
+**2017-05 -- 2019-01  ::  Embedded SW R&D Engineer**  
+:   Avelabs LLC. - Contractor to Aptiv USA   
+**2016-06 -- 2017-04  ::  Embedded DSP SW Engineer**   
+:   Axxcelera Egypt LLC. subsidiary of Axxcelera Broadband Wireless   
 
 Technical Experience
 --------------------
@@ -43,41 +34,10 @@ Open Source
     (with [link](http://nodejs.org)) which was actually totally
     your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Programming Languages  
+* **C.**  
+* **Python.**  
+* **C++.**   
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <ahmhashesh@gmail.com> • +02 (0)10 606 25100 • 29 years old\
+> Alexandria, Egypt
