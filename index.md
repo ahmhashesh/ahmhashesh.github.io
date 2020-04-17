@@ -24,7 +24,7 @@ Technical Experience
 
 My Projects
 
-    * Device Free Person Tracker using WiFi during my study @ITI
+    * Device Free passive Tracker using WiFi during my study @ITI
     * Leakage detection in pipelines using machine learning @Research Project.
     * Facial Keypoint Detection @Udacity.
     * Image Captioning @Udacity.
