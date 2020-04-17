@@ -22,20 +22,13 @@ for more details check my CV <a href="ahmed-hashesh.pdf">Download File</a>
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+My Projects
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    * Device Free Person Tracker using WiFi during my study @ITI
+    * Leakage detection in pipelines using machine learning @Research Project.
+    * Facial Keypoint Detection @Udacity.
+    * Image Captioning @Udacity.
+    * Landmark Detection & Tracking (SLAM) @Udacity.
 
 Programming Languages  
 * **C.**  
