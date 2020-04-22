@@ -24,11 +24,12 @@ Technical Experience
 
 My Projects
 
-    * Device Free passive Tracker using WiFi during my study @ITI
-    * Leakage detection in pipelines using machine learning @Research Project.
-    * Facial Keypoint Detection @Udacity.
-    * Image Captioning @Udacity.
-    * Landmark Detection & Tracking (SLAM) @Udacity.
+   * An OpenStreetMap Route Planner @Udacity using C++. 
+   * [Landmark Detection & Tracking (SLAM) @Udacity with Python.](https://github.com/ahmhashesh/CVND/tree/master/Landmark%20Detection%20%26%20Tracking%20(SLAM))
+   * [Facial Keypoint Detection @Udacity.](https://github.com/ahmhashesh/CVND/tree/master/Facial%20Keypoint%20Detection)
+   * [Image Captioning @Udacity.](https://github.com/ahmhashesh/CVND/tree/master/Image%20Captioning)
+   * Leakage detection in pipelines using machine learning @Research Project.
+   * Device Free passive Tracker using WiFi during my study @ITI
 
 Programming Languages  
 * **C.**  
