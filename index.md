@@ -2,12 +2,15 @@
 ## Senior Embedded SW Engineer and Machine learning Enthusiastic
 Embedded Software Engineer with 4 years of experience in Embedded and Automotive industry with a focus on ADAS products. Compiled solid experience in Software-Hardware Interfacing including SIP and MCAL configuration and integration activities specially over Infineon Tricore Architecture. Designed and implemented different AUTOSAR software components with in-depth exposure to functional safety critical requirements based on ISO26262.
 
-Education
+Education:
 ---------
+* Computer Vision Nano Degree Program, Udacity, April 2020.
+* C++ Nano Degree Program, Udacity, May 2020.
+* Faculty of Engineering, Alexandria university, Communication and Electronics Department.
 
 
 
-Experience
+Experience:
 ----------
 **2019-01 -- present  ::  Senior Embedded SW R&D Engineer**  
    Avelabs LLC. - Contractor to Aptiv USA  
@@ -19,10 +22,10 @@ Experience
 for more details check my CV <a href="ahmed-hashesh.pdf">Download File</a>  
   
   
-Technical Experience
+Technical Experience:
 --------------------
 
-My Projects
+My Projects:
 
    * An OpenStreetMap Route Planner @Udacity using C++. 
    * [Landmark Detection & Tracking (SLAM) @Udacity with Python.](https://github.com/ahmhashesh/CVND/tree/master/Landmark%20Detection%20%26%20Tracking%20(SLAM))
@@ -31,10 +34,15 @@ My Projects
    * Leakage detection in pipelines using machine learning @Research Project.
    * Device Free passive Tracker using WiFi during my study @ITI
 
-Programming Languages  
+Programming Languages:
 * **C.**  
 * **Python.**  
 * **C++.**   
+
+Articles:
+* [Data Preprocessing And Visualization In C++.](https://towardsdatascience.com/data-preprocessing-and-visualization-in-c-6d97ed236f3b)
+* [Compressive Transformer vs LSTM.](https://medium.com/ml2b/introduction-to-compressive-transform-53acb767361e)
+
 
 > <ahmhashesh@gmail.com> • +2 (0)10 606 25100 •
 > Alexandria, Egypt  
