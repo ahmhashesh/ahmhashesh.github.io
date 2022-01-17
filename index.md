@@ -42,6 +42,10 @@ Programming Languages:
 Articles:
 * [Data Preprocessing And Visualization In C++.](https://towardsdatascience.com/data-preprocessing-and-visualization-in-c-6d97ed236f3b)
 * [Compressive Transformer vs LSTM.](https://medium.com/ml2b/introduction-to-compressive-transform-53acb767361e)
+* [Linux Mint vs Ubuntu: Who will win?](https://lightrun.com/best-practices/comparing-linux-mint-and-ubuntu/)
+* [How to use cURL with Python?](https://www.scrapingbee.com/blog/python-curl/)
+* [Version Control for ML Models: Why You Need It, What It Is, How To Implement It](https://neptune.ai/blog/version-control-for-ml-models)
+* [Comprehensive Guide to Transformers](https://neptune.ai/blog/comprehensive-guide-to-transformers)
 
 
 > <ahmhashesh@gmail.com> • +2 (0)10 606 25100 •
